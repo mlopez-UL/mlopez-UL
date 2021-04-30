@@ -1,5 +1,9 @@
 ### Hello 👋
 
+My name is Miguel, I'm a Senior Data Scientist at UL-Spain.
+
+* Currently working for UL.
+
 <!--
 **mlopez-UL/mlopez-UL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
